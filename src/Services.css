@@ -1,0 +1,11 @@
+.card-text{
+    color:black;
+}
+.card-title{
+   color:rgb(245, 212, 23);
+}
+.card-img{
+    height:60%;
+    width:60%;
+    align-self: center;
+}

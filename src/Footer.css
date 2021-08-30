@@ -1,0 +1,29 @@
+/* below css is for footer */
+.footer{
+  height:200px;
+}
+.coltext{
+  color:white;
+  text-align: center;
+  text-align:center;
+}
+.footerheading
+{
+color:rgb(245, 212, 23);
+text-align: center;
+}
+.copyright{
+  color: white;
+ text-align: center;
+}
+.logoimg{
+  width:30px;
+  height:30px;
+  justify-self:center;
+  display: inline-flex;
+  justify-content: space-between;
+ 
+}
+
+
+

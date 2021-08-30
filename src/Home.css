@@ -1,0 +1,35 @@
+.navbar-brand{
+color:rgb(245, 212, 23);
+  font-weight: 500;
+}
+
+.carousel-item{
+  height:90%;
+  width:100%;
+  position: absolute;
+  
+}
+.carousel-inner{
+  margin-top: 10px;
+  padding-left:0;
+  padding-right:0;
+}
+
+
+
+.ServicesHeading{
+color:rgb(196, 168, 13);
+text-align: center;
+}
+.card-text{
+  color:white;
+}
+.Text{
+  margin-left: 10px;
+}
+.ServicesPragraph{
+  color:black;
+}
+
+
+
